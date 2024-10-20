@@ -2,7 +2,6 @@
 - 👀 I’m interested in website developing
 - 🌱 I’m currently learning Python Django, JavaScript, HTML, CSS
 - 💞️ I’m looking to collaborate on Codewars, HackerRank, LeetCode Project Euler, GeeksforGeeks
-- 📫 How to reach me will be added soon.
 - 😄 Pronouns: he/his
 
 <!---
